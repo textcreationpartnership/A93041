@@ -1,0 +1,194 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A word in season or, A check to disobedience, and to all lying scandalous tongues, with manifest conviction of a general received slander; in vindication of the Right Honorable, John Warner, Lord-Mayor of the Honorable City of London : concerning the justness of his actions upon Christmas-day, calumniated by evil-affected men. / By G.S. Gent. Jan. 13. 1647. Imprimatur G. Mabbot.</title>
+            <author>G. S., Gent.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1648</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 16 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A93041</idno>
+            <idno type="STC">Wing S30</idno>
+            <idno type="STC">Thomason E422_26</idno>
+            <idno type="STC">ESTC R203464</idno>
+            <idno type="EEBO-CITATION">99863413</idno>
+            <idno type="PROQUEST">99863413</idno>
+            <idno type="VID">161396</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A93041)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 161396)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 66:E422[26])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A word in season or, A check to disobedience, and to all lying scandalous tongues, with manifest conviction of a general received slander; in vindication of the Right Honorable, John Warner, Lord-Mayor of the Honorable City of London : concerning the justness of his actions upon Christmas-day, calumniated by evil-affected men. / By G.S. Gent. Jan. 13. 1647. Imprimatur G. Mabbot.</title>
+                  <author>G. S., Gent.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Laurence Chapman,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>Jan. 14. [1648]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Warner, John, --  Sir, d. 1648.</term>
+               <term>Christmas --  England --  London --  Early works to 1800.</term>
+               <term>London (England) --  History --  17th century --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-09</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-10</date>
+            <label>Judith Siefring</label>Sampled and proofread</change>
+         <change>
+            <date>2012-10</date>
+            <label>Judith Siefring</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:161396:1" rendition="simple:additions"/>
+            <p> 
+               <hi>A Word in ſeaſon:</hi> OR, A Check to Diſobedience, and to all lying ſcandalous Tongues, with manifeſt conviction of a general received SLANDER; IN VINDICATION OF The Right Honorable, <hi>John Warner,</hi> Lord-Mayor of the Honorable City of LONDON: CONCERNING The juſtneſs of his Actions upon Chriſtmas-day, Calumniated by Evil-affected Men.</p>
+            <p>By <hi>G. S.</hi> Gent.</p>
+            <floatingText type="license" xml:lang="eng" subtype="imprimatur">
+               <body>
+                  <opener>
+                     <dateline>
+                        <date>Jan. 13. 1647. </date>
+                     </dateline>
+                  </opener>
+                  <p>Imprimatur </p>
+                  <closer>
+                     <signed>G. Mabbot.</signed>
+                  </closer>
+               </body>
+            </floatingText>
+            <q>
+               <p>
+                  <hi>Thou ſhalt not speak evil of the ruler of thy people,</hi> 
+               </p>
+               <bibl>Act. 23. 5.</bibl>
+            </q>
+            <q>
+               <p>
+                  <hi>For there is no power but of God, the powers that be, are ordained of God: </hi>
+               </p>
+               <p>
+                  <hi>Wherefore ye muſt needs be ſubject, not onely for wrath, but alſo for con<g ref="char:EOLhyphen"/>ſcience ſake:</hi> 
+               </p>
+               <bibl>Rom. 13. 1, 5.</bibl>
+            </q>
+            <p>
+               <hi>London,</hi> printed for <hi>Laurence Chapman. Jan.</hi> 14.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:161396:2"/>
+            <p>
+               <pb n="3" facs="tcp:161396:2"/> FOraſmuch as the Office and Authority of the Ci<g ref="char:EOLhyphen"/>vil Magiſtrate is the Ordinance of God, and that Magiſtrates juſt Commands, and Peoples willing Obedience, is the main foundation, or the two chief upholding pillars to the being or welbeing of all Kingdoms and Commonweals, as well as particular Cities and Families; Therefore Injuſtice in the one, or Diſobedi<g ref="char:EOLhyphen"/>ence in the other, have been, and neceſſarily muſt be, the de<g ref="char:EOLhyphen"/>ſtruction and utter ſubverſion of the greateſt Monarchs and moſt flouriſhing Kingdoms, and of all humane Societies. But commonly the defect on the Peoples part, caſting off the yoke of obedience, is much more miſchievous to a Com<g ref="char:EOLhyphen"/>monweal, then Injuſtice in the Magiſtrate commanding; For many States, Commonweals and Kingdoms have pro<g ref="char:EOLhyphen"/>ſpered long under ill Commanders; but where ever the Peo<g ref="char:EOLhyphen"/>ple have refuſed to obey, and contemned the Authority of the Magiſtrate, that State, Commonweal or Kingdom hath inevitably faln into confuſion and deſolation. All Hiſto<g ref="char:EOLhyphen"/>rians conclude this as a Maxime, That an ill Government is better then none; the Laws of a Tyrant and his Tyranny may dye with him, Juſtice and Clemency may revive after him to everlaſting poſterities; but the yoke of obedience being once caſt off, againſt the lawful Authority of the Magiſtrate, it is like the opening of many floodgates to all wickedneſs and deſtruction, as the breaking in of the Ocean with an overflowing and deſtroying deluge, which is ſud<g ref="char:EOLhyphen"/>den and remedileſs.</p>
+            <p>It is well obſerved of one, That a wiſe Stateſman being asked, how it came to paſs that the City or Commonweal of <hi>Sparta</hi> ſo long flouriſhed, when other States and Com<g ref="char:EOLhyphen"/>monweals fell into diſtractions and confuſions? The wiſe Stateſman anſwered. It was not becauſe their Magiſtrates commanded better then other, but becauſe the Citizens and People obeyed Magiſtrates willingly. In this is utility and ſafety.</p>
+            <pb n="4" facs="tcp:161396:3"/>
+            <p> We know hy what undiſſolved Tyes Antichriſtian <hi>Rome</hi> binde their Subjects to obedience to the Pope, his Laws, Edicts and Miniſters; and they know they have been there<g ref="char:EOLhyphen"/>by eſtabliſhed. We may learn of the unjuſt Steward to be provident; the wiſdom of the Serpent, and the Doves in<g ref="char:EOLhyphen"/>nocency may ſtand well together. We know likewiſe, how all Popes ſucceſſively have by the craft and activity of their ſeducing Jeſuites, ſtirred up diviſions and factions in all States and Kingdoms throughout Chriſtendom, and there<g ref="char:EOLhyphen"/>by procured Rebellion, by which they have ever prevailed, and have more inlarged their Dominions then by the Sword; for this is their Maxine and practice, <hi>Firſt Divide, then Conquer.</hi> Do we not ſee what fearful Diviſions they have raiſed in <hi>England, Scotland</hi> and <hi>Ireland</hi> at this day? for it is the onely act of the Jeſuites; they firſt kindled the fire, and they ſtil bring more fuel to make the flame greater; yet we will not take notice, that diviſions and factions are as ſo many armies beſieging us, yea almoſt entred as Con<g ref="char:EOLhyphen"/>querers upon us.</p>
+            <p>Whence was our late bloody War in <hi>England</hi> and <hi>Scot<g ref="char:EOLhyphen"/>land,</hi> and that helliſh Rebellion in <hi>Ireland,</hi> but from <hi>Romes</hi> Jeſuites? God onely hath broken that ſnare, and we are eſcaped; but our pride, our contumacy, our envy, hath again involved us into a greater labrynth, and who but God can deliver us? Doth not pride, both Spiritual and Carnal, pre<g ref="char:EOLhyphen"/>vail? Are not men more full of ſelf-ſeeking and vain-glory then ever? Is not <hi>Jone</hi> in her own conceit as good as her Lady? Doth not <hi>Jack</hi> think himſelf a Gentleman? the Servant beards it with his Maſter, the Peaſant equals him<g ref="char:EOLhyphen"/>ſelf with the Peer, and he that ſhould be commanded, contends with him that commands; theſe are horrid and unjuſt things. Is not Magiſtracy deſpiſed and calumniated? conſider well; Are we not brought into the laſt and worſt condition of deſtroyed <hi>Jeruſalem?</hi> Doth not oppoſition in faction carry us beyond the mean to two Extremes? Some that too much affect Monarchy, Deifie their Prince, as at leaſt equal with God on Earth, and will rebel againſt God, his Law, and Chriſt their King, rather then ſubmit
+<pb n="5" facs="tcp:161396:3"/> to holy Writ, or omit one Ceremony that their Prince liketh. Others in the contrary extreme, deſpiſe Authority, refuſe to do the thing they are commanded, becauſe they are commanded it; although they would do the ſame if it had not been commanded: Theſe would have the Magi<g ref="char:EOLhyphen"/>ſtrate in a worſe condition then the Cobler that mends their Shoes; they will not alow him to mend a fault, nor to correct their wry-goings. Thus the common Enemy have overwitted us, and will (if not prevented by our re<g ref="char:EOLhyphen"/>conciling and unity) overcome us.</p>
+            <p>That all this is but the fruit of Gods anger againſt us for our ſins, I know; and that it is a large addition and ag<g ref="char:EOLhyphen"/>gravation of our former ſins, I would have all men take notice; for this our iniquity will be our ruine, if not time<g ref="char:EOLhyphen"/>ly prevented by Humiliation and by Reformation. God hath ſent unto us his Miniſters and Meſſengers (as to the Jews) to beſeech us, <hi>Becauſe he had compaſſion on his peo<g ref="char:EOLhyphen"/>ple, and on his dwelling place:</hi> they have foretold us of wrath long before it fell upon us; we have ſome years paſt ſeen and felt it, to the bitterneſs of our ſouls. Gods Mini<g ref="char:EOLhyphen"/>ſters have faſted and prayed for us, and with us, when we with one accord joyned with them, and God did graci<g ref="char:EOLhyphen"/>ouſly hear and anſwer; but our hearts are now lift up with pride, like the heart of <hi>Hezekiah</hi> after his great delive<g ref="char:EOLhyphen"/>rance, and <hi>we have not rendred to God according to what we have received,</hi> therefore wrath is come upon all <hi>England.</hi> Do we not now neglect to ſeek God by prayer and faſt<g ref="char:EOLhyphen"/>ing? Do we not interpret our Solemn Covenant to our own Ends, and turn Religion into Policy, and Law into Liberty? Did not God ſpare the natural branches, and ſhall God ſpare us? how can we think it?</p>
+            <p>
+               <hi>Korah</hi> and his company deſpiſed the Government of <hi>Moſes,</hi> and the Miniſtery of <hi>Aaron,</hi> but the Earth open<g ref="char:EOLhyphen"/>ed her mouth and ſwallowed them up. If I ſhould enter into particulars, and give inſtances of theſe times, parallel to the Rebellion of <hi>Korah</hi> and his company, I ſhould ex<g ref="char:EOLhyphen"/>ceed my ſheet, and multiply it by tens. I ſhall confine my pen to one onely, which is indeed my chief aim; and that
+<pb n="6" facs="tcp:161396:4"/> is, to reprove that deſperate and wicked Affront offered to the Right honorable <hi>(John Warner)</hi> Lord Major of the honorable City of <hi>London</hi> for the time being, on the 25. day of December laſt, commonly and ignorantly called Chriſt<g ref="char:EOLhyphen"/>mas day; and to vindicate his Name from the calumnious Reproaches, and horrid lying Slanders, caſt upon him, and upon his Authority, by ſome ſons of Diſobedience.</p>
+            <p>In brief thus; The Lords and Commons aſſembled in Parliament being ſenſible of the too much ſuperſtitious keeping the day called Chriſtmas day, and the ſuperfluity in all exceſs, which are altogether unſutable to our ſad Times of Calamity; according to the National Covenant againſt all Superſtition, and for Reformation, have thought fit to reform that abuſe; And becauſe ſome Epiſcopal men, Divines in the City, were reſolved to preach that day, being the 25. of December laſt, with intent to kindle greater fire of Contention, rather then to edifie their hearers in the Faith of Chriſt, An Order came from the Houſe to the Lord Major on the Even, to command ſuch men not to Preach on that day; ſome obeyed, and ſome diſobeyed; little was ſaid or done to any, but admoniſhed, and they are where they were (for ought I know) as full of Superſtition as before. The ſame 25. day of December the Lord Major being at <hi>Guildhall,</hi> ſitting in Committee of the Militia, complaint was made before them, That a tumult was gathered together in Cornhil, near Leadenhal, where in deſpite of Authority they had ſet up Holly and Ivy on the top of a Pinacle, a high work or building in the middle of the ſtreet, which they with theſe green things had a<g ref="char:EOLhyphen"/>dorned; and made ſome glory in it. The Lord Major and the reſt of the Committee, ſent the Marſhal of the City, with his man, and ſome other of his Lordſhips Officers, to pul down theſe gawds; but not ſuffered to do it, were by the multitude abuſed; One was in danger to be killed, the Marſhals man, as the reſt, ſeeking to eſcape their hands, was purſued by ſome of them, and forced to take a houſe for ſafety; ſome of the rude multitude aſſayed to break in upon him, and ſaid, they would have him, and they would
+<pb n="7" facs="tcp:161396:4"/> kill him; but he eſcaped by a back-way, and came back with the reſt to the Committee of the Militia, where the Lord Major was: The Lord Major preſently fearing ſome miſchief might be, aroſe, and took horſe, being accompanied with one of the Sheriffs, (the other being neceſſarily abſent) rode to the place aforeſaid, taking with them ſome Holbertiers to guard his Lordſhips perſon, and to keep the perce: Their preſence gave ſome dump to the company, many of them were ſubmiſſive; but ſome gave Affront, inſomuch that one of the Officers ſtrook one of them on the head, and brake his head, his name was <hi>Price ap Williams,</hi> on whom they laid hold, and on ſome others, who were all ſent to the Counter; but the Lord Major blamed him that ſtrook, ſaying, he came thither to keep the peace, &amp;c. The third day, after Examination and admonition, they were ſet at liberty, and all well, onely <hi>Price Williams</hi> wore a plaiſter to his broken pate. This <hi>Price Williams</hi> it ſeems was ſer<g ref="char:EOLhyphen"/>vant to Mr. <hi>William Garraway</hi> a Merchant, but not his Apprentice: He was firſt Sir <hi>Henry Garraway</hi>'s Footboy, afterward he went a<g ref="char:EOLhyphen"/>broad to ſeek preferment, but returned empty to this Mr. <hi>Garraway,</hi> ſon to Sir <hi>Henry Garraway,</hi> where he is employed to go of errands, and to wait at Table, where he now is, well and ſound, as ever he was ſince he came firſt out of <hi>Wales,</hi> his Native place. This is the full and whole truth of the buſineſs, though Envy have ſpread an<g ref="char:EOLhyphen"/>other Report.</p>
+            <p>For thoſe ſeditious inſtruments of the Devil, who was a lyar from the beginning, and is the Father of lyes and lyars, maliciouſly by the ſecret ſuggeſtion of the old Serpent, firſt whiſpered abroad that <hi>Price Williams</hi> was dead of the wound in his head, and that the Lord Major commanded his Officers to knock him down, and that he was a mans ſon of quality, born to a great Eſtate, Appren<g ref="char:EOLhyphen"/>tice to Mr. <hi>Garraway,</hi> who had in money Three hundred pounds with him, and that the Lord Major was in great trouble about it. This report being thus ſecretly ſpread by wicked and turbulent men, it grew by the eighth day of Ianuary to a publike talk in all places within the City, and divulged into the Countreys, ſo as the thing was by very many believed with ſuch confidence, that many to this day will not believe the contrary; And the rather, becauſe theſe malignant perſons, to make ſome Inſurrection or Rebellious Muti<g ref="char:EOLhyphen"/>ny, had incenſed many Apprentices to indignation, ſo as there were ſeveral papers ſet up upon poſts to meet together to avenge the blood of their brother Prentice.</p>
+            <p>Theſe things being ſo frequently talked of, put me to a diligent enquiry of the buſineſs, which I really finde as I have related it in every particular. And for my better ſatisfaction, I cauſed theſe Re<g ref="char:EOLhyphen"/>ports to be made known to the Lord Major, who made this wiſe and grave anſwer to it, That the thing did not nor ſhould not trouble him at all, innocency and an upright heart was defence and ſupport to him againſt all malice of men: Saying farther, It was a buſineſs
+<pb n="8" facs="tcp:161396:5"/> below him to take notice of, it being his own caſe; and rather made that uſe of their ſlander, that <hi>David</hi> did of <hi>Shime<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </hi>'s curſing<g ref="char:punc">▪</g> then ſeeking any revenge up<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>n the perſons of any: And as wiſe <hi>Pyrrus</hi> did in another (the like) caſe, when a friend came to him and told him of one in the City of <hi>Ambracia</hi> that coutinually ſpak<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap> ill of him to all men, and deſired he would put him out of the City <gap reason="illegible" resp="#OXF" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 
+               <hi>Pyrrus</hi> gave this anſw<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>r, Let him alone; if he ſpeak ill of me while I have not offended, and when I have done him no harm, how much more will he ſpeak ill of me if I ſhould baniſh him.</p>
+            <p>Truly the conſide<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rtion of all this put together, his Lordſhips innocency, patience, and the horribl<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap> ſlander caſt upon him, inforced me to write this ſheet in his Vindication, whoſe fidelity, piety and Iuſtice is to me well known: And he that will not vindicate himſelf by the Sword of Authority, hath need, and juſtly deſerves to be de<g ref="char:EOLhyphen"/>fended in ſo juſt a cauſe, by the Pen of a friend, though I confeſs his merits do challenge, and call for more then I will or can expreſs; for I hate to flatter, onely to waſh the ſtain that black-mouthed Hell<g ref="char:EOLhyphen"/>hounds have ſough<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap> to caſt upon him, I have dipt my Pen in ink, not in gall, for they want none.</p>
+            <p>Now to conclude, I ſhall endeavor to do them good for evil, and intreat them to take advice from me, to leave lying, as they love their ſouls; for the Spirit of God ſaith plainly, <hi>All lyars ſhall have iheir part in the lake which burneth with fire and brimſtone:</hi> humble your ſelves therefore, ye ſons of Belial, that dare ſpeak evil of dig<g ref="char:EOLhyphen"/>nities, and bring falſe accuſations againſt the juſt and lawful Magi<g ref="char:EOLhyphen"/>ſtrate, whom God hath ſtiled with the honor to bear his own name, as they do his image, he hath called them gods, though they muſt dye like men. Ye children of your Father the Devil, know your ſelves, and ſeek God, repent of your horrid wickedneſs, and pray, if poſ<g ref="char:EOLhyphen"/>ſible, your ſins may be forgiven you; for you are in the gall of bit<g ref="char:EOLhyphen"/>terneſs, and in the bond of iniquity: yet ye may be as <hi>a firebrand pluckt out of the burning;</hi> But if for my well wiſhes ye rail againſt me, by reproach of the tongue, I ſay no more to you, but what the Apoſtle <hi>Jude</hi> ſaid to your Father, <hi>The Lord rebuke you.</hi>
+            </p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
